@@ -56,3 +56,10 @@ My name is Supakun Thata , I'm **`Frontend developer`** in the world 🌍. I enj
 
 <a href="http://www.github.com/SupakunZ"><img src="https://github-readme-stats.vercel.app/api?username=SupakunZ&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="SupakunZ's GitHub stats" /></a>
 
+#
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/supakunz/supakunz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/supakunz/supakunz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/supakunz/supakunz/output/github-contribution-grid-snake.svg">
+</picture>
+
