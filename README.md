@@ -32,14 +32,14 @@ My name is Supakun Thata , I'm **`Frontend developer`** in the world 🌍. I enj
 ### Socials
 
 <p align="left"> 
-  <a align="left" style="padding-right:10px; href="https://www.github.com/SupakunZ" target="_blank" rel="noreferrer"> 
+  <a align="left" style="padding-right:10px;" href="https://www.github.com/SupakunZ" target="_blank" rel="noreferrer"> 
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
       <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"/> 
     </picture> 
   </a> 
-  <a align="left" style="padding-right:10px; href="https://www.x.com/GuNz246448" target="_blank" rel="noreferrer"> 
+  <a align="left" style="padding-right:10px;" href="https://www.x.com/GuNz246448" target="_blank" rel="noreferrer"> 
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> 
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> 
