@@ -14,7 +14,6 @@ My name is Supakun Thata , I'm **`FullStack Developer`** in the world 🌍. I en
 ### 🧰 Languages and Tools
 <br />
 
-![My Skills](https://skillicons.dev/icons?i=cpp)&nbsp;&nbsp;
 ![My Skills](https://skillicons.dev/icons?i=js)&nbsp;&nbsp;
 ![My Skills](https://skillicons.dev/icons?i=html)&nbsp;&nbsp;
 ![My Skills](https://skillicons.dev/icons?i=css)&nbsp;&nbsp;
@@ -22,7 +21,6 @@ My name is Supakun Thata , I'm **`FullStack Developer`** in the world 🌍. I en
 ![My Skills](https://skillicons.dev/icons?i=vite)&nbsp;&nbsp;
 ![My Skills](https://skillicons.dev/icons?i=tailwind)&nbsp;&nbsp;
 ![My Skills](https://skillicons.dev/icons?i=bootstrap)&nbsp;&nbsp;
-![My Skills](https://skillicons.dev/icons?i=mui)&nbsp;&nbsp;
 ![My Skills](https://skillicons.dev/icons?i=git)&nbsp;&nbsp;
 ![My Skills](https://skillicons.dev/icons?i=python)&nbsp;&nbsp;
 ![My Skills](https://skillicons.dev/icons?i=sass)&nbsp;&nbsp;
