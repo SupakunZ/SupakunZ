@@ -1,9 +1,9 @@
 ![github-header-image](https://github.com/SupakunZ/SupakunZ/assets/168329218/15375aaa-f646-4129-8502-d5a4fc8b3b8a)
 # ⭐Hi there
 
-My name is Supakun Thata , I'm **`Frontend developer`** in the world 🌍. I enjoy programming most when I can solve problems and I love learning new things so I can improve my knowledge and create great work.
+My name is Supakun Thata , I'm **`FullStack Developer`** in the world 🌍. I enjoy programming most when I can solve problems and I love learning new things so I can improve my knowledge and create great work.
 
-* 🖥️  See my portfolio at [@Myport](http://google.co.th)
+* 🖥️  See my portfolio at [@Myport](https://portfolio-supakun.netlify.app)
 * ✉️  You can contact me at [supakunt.thata@gmail.com](mailto:supakunt.thata@gmail.com)
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:supakunt.thata@gmail.com)
