@@ -12,43 +12,31 @@ My name is Supakun Thata , I'm **`FullStack Developer`** in the world 🌍. I en
 ---
 
 ### 🧰 Languages and Tools
-
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" style="padding-right:10px;" />
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" style="padding-right:10px;" />
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" style="padding-right:10px;" />
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" style="padding-right:10px;" />
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" style="padding-right:10px;" />
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" style="padding-right:10px;" />
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" style="padding-right:10px;" />
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" style="padding-right:10px;" />
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" style="padding-right:10px;" />
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" style="padding-right:10px;" />
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" style="padding-right:10px;" />
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" style="padding-right:10px;" />
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" style="padding-right:10px;"/>
 <br />
+
+![My Skills](https://skillicons.dev/icons?i=cpp)&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=js)&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=html)&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=css)&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=react)&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=vite)&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=tailwind)&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=bootstrap)&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=mui)&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=git)&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=python)&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=sass)&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=nodejs)&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=mongodb)&nbsp;&nbsp; 
+![My Skills](https://skillicons.dev/icons?i=mysql)&nbsp;&nbsp;
 
 #
 
-### Socials
-
-<p align="left"> 
-  <a align="left" style="padding-right:10px;" href="https://www.github.com/SupakunZ" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
-      <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"/> 
-    </picture> 
-  </a> 
-  <a align="left" style="padding-right:10px;" href="https://www.x.com/GuNz246448" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> 
-      <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32"/> 
-    </picture> 
-  </a>
-</p>
+### 🌍 Socials
 <br />
+
+  [![My Skills](https://skillicons.dev/icons?i=github)](https://www.github.com/SupakunZ)&nbsp;&nbsp;
+  [![My Skills](https://skillicons.dev/icons?i=twitter)](https://www.x.com/GuNz246448)
 
 #
 
