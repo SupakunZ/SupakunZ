@@ -27,8 +27,8 @@ My name is Supakun Thata , I'm **`Frontend Developer`** in the world 🌍. I enj
 ![My Skills](https://skillicons.dev/icons?i=python)&nbsp;&nbsp;
 ![My Skills](https://skillicons.dev/icons?i=sass)&nbsp;&nbsp;
 ![My Skills](https://skillicons.dev/icons?i=nodejs)&nbsp;&nbsp;
-![My Skills](https://skillicons.dev/icons?i=netlify)&nbsp;&nbsp; 
 ![My Skills](https://skillicons.dev/icons?i=mongodb)&nbsp;&nbsp; 
+![My Skills](https://skillicons.dev/icons?i=netlify)&nbsp;&nbsp; 
 ![My Skills](https://skillicons.dev/icons?i=supabase)&nbsp;&nbsp; 
 ![My Skills](https://skillicons.dev/icons?i=mysql)&nbsp;&nbsp;
 
