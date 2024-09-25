@@ -15,6 +15,7 @@ My name is Supakun Thata , I'm **`Frontend Developer`** in the world 🌍. I enj
 <br />
 
 ![My Skills](https://skillicons.dev/icons?i=js)&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=ts)&nbsp;&nbsp;
 ![My Skills](https://skillicons.dev/icons?i=html)&nbsp;&nbsp;
 ![My Skills](https://skillicons.dev/icons?i=css)&nbsp;&nbsp;
 ![My Skills](https://skillicons.dev/icons?i=react)&nbsp;&nbsp;
