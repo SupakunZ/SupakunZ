@@ -50,8 +50,6 @@ My name is Supakun Thata , I'm **`Frontend Developer`** in the world 🌍. I enj
   [![My Skills](https://skillicons.dev/icons?i=github)](https://www.github.com/SupakunZ)&nbsp;&nbsp;
   [![My Skills](https://skillicons.dev/icons?i=twitter)](https://www.x.com/GuNz246448)
 
----
-
 ### 📊 Stats
 
 <a href="http://www.github.com/SupakunZ"><img src="https://github-readme-stats.vercel.app/api?username=SupakunZ&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="SupakunZ's GitHub stats" /></a>
