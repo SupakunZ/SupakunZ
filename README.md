@@ -48,6 +48,14 @@ My name is Supakun Thata , I'm **`Frontend Developer`** in the world 🌍. I enj
 <a href="https://www.github.com/SupakunZ" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 </p>
 
+## 📚 Featured Projects
+
+- [GNSS RTK](https://github.com/bestculling/Jaifoo-Chatbot): Extract data from satellites and process the data to create accurate routes for unmanned vehicles.
+- [Tesla Clone](https://github.com/SupakunZ/Tesla_Clone): Crafted an immersive Tesla clone, Active navbar and UI similar to original
+- [Pokedex App API](https://github.com/SupakunZ/Pokedex_App): Leveraging LangChain and FastAPI for efficient text summarization.
+- [Restaurant Web Application](https://github.com/SupakunZ/Restaurant-Website): A comprehensive shoping solution.
+- [E-commerce Web Application](https://github.com/SupakunZ/E-commerce): A comprehensive e-commerce solution.
+
 ### 📊 Stats
 
 <a href="http://www.github.com/SupakunZ"><img src="https://github-readme-stats.vercel.app/api?username=SupakunZ&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="SupakunZ's GitHub stats" /></a>
