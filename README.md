@@ -50,7 +50,7 @@ My name is Supakun Thata , I'm **`Frontend Developer`** in the world 🌍. I enj
 
 ## 📚 Featured Projects
 
-- [GNSS RTK](https://github.com/bestculling/Jaifoo-Chatbot): Extract data from satellites and process the data for unmanned vehicles.
+- [GNSS RTK](https://github.com/SupakunZ/GNSS_RTK): Extract data from satellites and process the data for unmanned vehicles.
 - [Tesla Clone](https://github.com/SupakunZ/Tesla_Clone): Crafted an immersive Tesla clone, Active navbar and UI similar to original.
 - [Pokedex App API](https://github.com/SupakunZ/Pokedex_App): An application uses data from PokeAPI for display.
 - [Restaurant Web Application](https://github.com/SupakunZ/Restaurant-Website): A comprehensive restaurant website solution.
