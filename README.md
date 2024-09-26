@@ -11,37 +11,46 @@ My name is Supakun Thata , I'm **`Frontend Developer`** in the world 🌍. I enj
 
 ---
 
-### 🧰 Languages and Tools
-<br />
+## 🧰 Technical Proficiencies
 
+### Languages
 ![My Skills](https://skillicons.dev/icons?i=js)&nbsp;&nbsp;
 ![My Skills](https://skillicons.dev/icons?i=ts)&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=python)&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=cpp)&nbsp;&nbsp;
 ![My Skills](https://skillicons.dev/icons?i=html)&nbsp;&nbsp;
 ![My Skills](https://skillicons.dev/icons?i=css)&nbsp;&nbsp;
-![My Skills](https://skillicons.dev/icons?i=react)&nbsp;&nbsp;
+
+
+### Frameworks & Libraries
 ![My Skills](https://skillicons.dev/icons?i=vite)&nbsp;&nbsp;
-![My Skills](https://skillicons.dev/icons?i=nextjs)&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=react)&nbsp;&nbsp;
 ![My Skills](https://skillicons.dev/icons?i=redux)&nbsp;&nbsp;
-![My Skills](https://skillicons.dev/icons?i=tailwind)&nbsp;&nbsp;
-![My Skills](https://skillicons.dev/icons?i=bootstrap)&nbsp;&nbsp;
-![My Skills](https://skillicons.dev/icons?i=git)&nbsp;&nbsp;
-![My Skills](https://skillicons.dev/icons?i=python)&nbsp;&nbsp;
-![My Skills](https://skillicons.dev/icons?i=sass)&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=nextjs)&nbsp;&nbsp;
 ![My Skills](https://skillicons.dev/icons?i=nodejs)&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=express)&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=tailwind)&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=materialui)&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=bootstrap)&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=sass)&nbsp;&nbsp;
+
+### Databases
+![My Skills](https://skillicons.dev/icons?i=mysql)&nbsp;&nbsp;
 ![My Skills](https://skillicons.dev/icons?i=mongodb)&nbsp;&nbsp; 
+
+### Tools & Platforms
+![My Skills](https://skillicons.dev/icons?i=git)&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=vscode)&nbsp;&nbsp;
 ![My Skills](https://skillicons.dev/icons?i=netlify)&nbsp;&nbsp; 
 ![My Skills](https://skillicons.dev/icons?i=supabase)&nbsp;&nbsp; 
-![My Skills](https://skillicons.dev/icons?i=mysql)&nbsp;&nbsp;
 
-#
 
-### 🌍 Socials
-<br />
+## 🌍 Socials
 
   [![My Skills](https://skillicons.dev/icons?i=github)](https://www.github.com/SupakunZ)&nbsp;&nbsp;
   [![My Skills](https://skillicons.dev/icons?i=twitter)](https://www.x.com/GuNz246448)
 
-#
+---
 
 ### 📊 Stats
 
