@@ -36,7 +36,8 @@ My name is Supakun Thata , I'm **`Frontend Developer`** in the world 🌍. I enj
 ### Tools & Platforms
 ![My Skills](https://skillicons.dev/icons?i=git)&nbsp;&nbsp;
 ![My Skills](https://skillicons.dev/icons?i=vscode)&nbsp;&nbsp;
-![My Skills](https://skillicons.dev/icons?i=netlify)&nbsp;&nbsp; 
+![My Skills](https://skillicons.dev/icons?i=netlify)&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=vercel)&nbsp;&nbsp; 
 ![My Skills](https://skillicons.dev/icons?i=supabase)&nbsp;&nbsp; 
 
 
