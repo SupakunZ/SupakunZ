@@ -50,7 +50,7 @@ My name is Supakun Thata , I'm **`Frontend Developer`** in the world 🌍. I enj
 
 ## 📚 Featured Projects
 
-- [AI Chatbot](https://github.com/SupakunZ/Gunglz_Chatbot) : An intelligent conversational AI system.
+- [AI Chatbot](https://github.com/SupakunZ/Gunglz_Chatbot) : An intelligent conversational AI Chat system.
 - [GNSS RTK](https://github.com/SupakunZ/GNSS_RTK) : Analyzing satellite data for Autonomous Vehicle.
 - [Tesla Clone](https://github.com/SupakunZ/Tesla_Clone) : Crafted an immersive Tesla clone, UI similar to original.
 - [Pokedex App API](https://github.com/SupakunZ/Pokedex_App) : An application uses data from PokeAPI for display.
