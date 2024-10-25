@@ -55,6 +55,7 @@ My name is Supakun Thata , I'm **`Frontend Developer`** in the world 🌍. I enj
 - [Tesla Clone](https://github.com/SupakunZ/Tesla_Clone) : Crafted an immersive Tesla clone, UI similar to original.
 - [Gunglz AI Chatbot](https://github.com/SupakunZ/Gunglz_Chatbot) : An intelligent conversational AI Chat system.
 - [Admin Dashboard](https://github.com/SupakunZ/Admin_Dashboard) : Display information and manage products and users.
+- [Crypto_tracker](https://github.com/SupakunZ/Crypto_tracker) : An application uses data from CoinGecko API for display.
 - [Pokedex App API](https://github.com/SupakunZ/Pokedex_App) : An application uses data from PokeAPI for display.
 - [E-commerce Web Application](https://github.com/SupakunZ/E-commerce) : A comprehensive e-commerce solution.
 - [Restaurant Web Application](https://github.com/SupakunZ/Restaurant-Website) : A comprehensive restaurant website solution.
