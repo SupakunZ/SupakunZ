@@ -34,6 +34,7 @@ My name is Supakun Thata , I'm **`Frontend Developer`** in the world 🌍. I enj
 ### Databases
 ![My Skills](https://skillicons.dev/icons?i=mysql)&nbsp;&nbsp;
 ![My Skills](https://skillicons.dev/icons?i=postgres)&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=redis)&nbsp;&nbsp;
 ![My Skills](https://skillicons.dev/icons?i=mongodb)&nbsp;&nbsp; 
 
 ### Tools & Platforms
