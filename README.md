@@ -54,16 +54,20 @@ My name is Supakun Thata , I'm **`Frontend Developer`** in the world 🌍. I enj
 <a href="https://www.github.com/SupakunZ" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 </p>
 
-## 📚 Featured Projects
+## 📚 My Projects
 
-- [GNSS RTK](https://github.com/SupakunZ/GNSS_RTK) : Analyzing satellite data for Autonomous Vehicle.
-- [Tesla Clone](https://github.com/SupakunZ/Tesla_Clone) : Crafted an immersive Tesla clone, UI similar to original.
-- [Gunglz AI Chatbot](https://github.com/SupakunZ/Gunglz_Chatbot) : An intelligent conversational AI Chat system.
-- [Admin Dashboard](https://github.com/SupakunZ/Admin_Dashboard) : Display information and manage products and users.
-- [Crypto_tracker](https://github.com/SupakunZ/Crypto_tracker) : An application uses data from CoinGecko API for display.
-- [Pokedex App API](https://github.com/SupakunZ/Pokedex_App) : An application uses data from PokeAPI for display.
-- [E-commerce Web Application](https://github.com/SupakunZ/E-commerce) : A comprehensive e-commerce solution.
-- [Restaurant Web Application](https://github.com/SupakunZ/Restaurant-Website) : A comprehensive restaurant website solution.
+| Project Name                    | Description                                                                                  | Link                                   |
+|---------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------|
+| 🛒 **E-commerce**       | A fully functional e-commerce shopping app with cart & admin dashboard using **React** & **Node.js**.  | [Repository](https://github.com/SupakunZ/E-commerce)  |
+| 🍔 **Restaurant**             |  A fully functional e-commerce food app with cart & admin dashboard using **NextJS** & **Node.js**.  | [Repository](https://github.com/SupakunZ/Restaurant-Website)  |
+| 📊 **Dashboard**          | Display information and manage products and users using **NextJS** & **Node.js**.  | [Repository](https://github.com/SupakunZ/Admin_Dashboard) |
+| 🤖 **AI Chatbot**          | An intelligent conversational AI Chat system using **NextJS** & **Node.js**.  | [Repository](https://github.com/SupakunZ/Gunglz_Chatbot)  |
+| 🚗 **Tesla Clone**          | Crafted an immersive Tesla clone, UI similar to original using **React** & **Node.js**.  | [Repository](https://github.com/SupakunZ/Tesla_Clone)  |
+| 📕 **Pokedex App**          | An application uses data from PokeAPI for display using **Typescript** & **NextJS**.  | [Repository](https://github.com/SupakunZ/Pokedex_App)  |
+| 💸 **Crypto Tracker**          | An application uses data from CoinGecko API for display using **NextJS** & **Node.js**.  | [Repository](https://github.com/SupakunZ/Crypto_tracker)  |
+| 🛰 **GNSS RTK**          | Analyzing satellite data for Autonomous Vehicle using **Python** & **Pandas**.  | [Repository](https://github.com/SupakunZ/GNSS_RTK)  |
+| 🖥️ **Portfolio Website**          | My personal portfolio showcasing skills & projects using **React** & **Node.js**.  | [Repository](https://github.com/supakunz/Portfolio)  |
+
 
 ### 📊 Stats
 
