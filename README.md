@@ -58,8 +58,8 @@ My name is Supakun Thata , I'm **`Frontend Developer`** in the world 🌍. I enj
 
 | Project Name                    | Description                                                                                  | Link                                   |
 |---------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------|
-| 🛒 **E-commerce**       | A fully functional e-commerce shopping app with cart & admin dashboard using **React** & **Node.js**.  | [Repository](https://github.com/SupakunZ/E-commerce)  |
-| 🍔 **Restaurant**             |  A fully functional e-commerce food app with cart & admin dashboard using **NextJS** & **Node.js**.  | [Repository](https://github.com/SupakunZ/Restaurant-Website)  |
+| 🛒 **E-commerce**       | A fully functional shopping app with cart & admin dashboard using **React** & **Node.js**.  | [Repository](https://github.com/SupakunZ/E-commerce)  |
+| 🍔 **Restaurant**             |  A fully functional food app with cart & admin dashboard using **NextJS** & **Node.js**.  | [Repository](https://github.com/SupakunZ/Restaurant-Website)  |
 | 📊 **Dashboard**          | Display information and manage products and users using **NextJS** & **Node.js**.  | [Repository](https://github.com/SupakunZ/Admin_Dashboard) |
 | 🤖 **AI Chatbot**          | An intelligent conversational AI Chat system using **NextJS** & **Node.js**.  | [Repository](https://github.com/SupakunZ/Gunglz_Chatbot)  |
 | 🚗 **Tesla Clone**          | Crafted an immersive Tesla clone, UI similar to original using **React** & **Node.js**.  | [Repository](https://github.com/SupakunZ/Tesla_Clone)  |
@@ -72,6 +72,10 @@ My name is Supakun Thata , I'm **`Frontend Developer`** in the world 🌍. I enj
 ### 📊 Stats
 
 <a href="http://www.github.com/SupakunZ"><img src="https://github-readme-stats.vercel.app/api?username=SupakunZ&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="SupakunZ's GitHub stats" /></a>
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=supakunz)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supakunz&layout=donut-vertical)
 
 #
 <picture>
