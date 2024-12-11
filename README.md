@@ -58,7 +58,7 @@ My name is Supakun Thata , I'm **`Frontend Developer`** in the world 🌍. I enj
 
 | Project Name                    | Description                                                                                  | Link                                   |
 |---------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------|
-| 🛒 **E-commerce**       | A fully functional shopping app with cart & admin dashboard using **React** & **Node.js**.  | [Repository](https://github.com/SupakunZ/E-commerce)  |
+| 🛒 **E-commerce**       | A fully functional shopping app with cart & payment gateway using **React** & **Node.js**.  | [Repository](https://github.com/SupakunZ/E-commerce)  |
 | 🍔 **Restaurant**             |  A fully functional food app with cart & admin dashboard using **NextJS** & **Node.js**.  | [Repository](https://github.com/SupakunZ/Restaurant-Website)  |
 | 📊 **Dashboard**          | Display information and manage products and users using **NextJS** & **Node.js**.  | [Repository](https://github.com/SupakunZ/Admin_Dashboard) |
 | 🤖 **AI Chatbot**          | An intelligent conversational AI Chat system using **NextJS** & **Node.js**.  | [Repository](https://github.com/SupakunZ/Gunglz_Chatbot)  |
