@@ -64,7 +64,7 @@ My name is Supakun Thata , I'm **`Frontend Developer`** in the world 🌍. I enj
 | 🤖 **AI Chatbot**          | An intelligent conversational AI Chat system using **NextJS** & **Tailwind**.  | [Repository](https://github.com/SupakunZ/Gunglz_Chatbot)  |
 | 🚗 **Tesla Clone**          | Crafted an immersive Tesla clone, UI similar to original using **React** & **Bootstrap**.  | [Repository](https://github.com/SupakunZ/Tesla_Clone)  |
 | 📕 **Pokedex App**          | An application uses data from PokeAPI for display using **Typescript** & **NextJS**.  | [Repository](https://github.com/SupakunZ/Pokedex_App)  |
-| 💸 **Crypto Tracker**          | An application uses data from CoinGecko API for display using **NextJS** & **Node.js**.  | [Repository](https://github.com/SupakunZ/Crypto_tracker)  |
+| 💸 **Crypto Tracker**          | An application uses data from CoinGecko API for display using **NextJS** & **TypeScript**.  | [Repository](https://github.com/SupakunZ/Crypto_tracker)  |
 | 🛰 **GNSS RTK**          | Analyzing satellite data for Autonomous Vehicle using **Python** & **Pandas**.  | [Repository](https://github.com/SupakunZ/GNSS_RTK)  |
 | 🖥️ **Portfolio Website**          | My personal portfolio showcasing skills & projects using **React** & **Node.js**.  | [Repository](https://github.com/supakunz/Portfolio)  |
 
